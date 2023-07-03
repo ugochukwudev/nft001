@@ -5,7 +5,7 @@ import WalletContextProvider from "../components/WalletContextProvider";
 import { extendTheme } from "@chakra-ui/react";
 //const inter = Inter({ subsets: ["latin"] });
 
-export const metadata = {
+const metadata = {
   title: "Buildoors",
   description: "The NFT Collection for Buildoors",
 };
