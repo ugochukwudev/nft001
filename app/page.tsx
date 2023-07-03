@@ -13,6 +13,8 @@ const Home: NextPage = () => {
     <div className={styles.container}>
       <Box
         w="full"
+        paddingBottom={"10"}
+        minHeight={"100vh"}
         bgImage={"url(/home-background.svg)"}
         backgroundPosition="center"
       >
